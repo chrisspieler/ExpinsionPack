@@ -1,0 +1,24 @@
+{
+  "Title": "Spinning Rat Expinsion Pack",
+  "Type": "addon",
+  "Org": "duccsoft",
+  "Ident": "rat_expinsion",
+  "Tags": null,
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": true,
+  "CodePath": "/code/",
+  "PackageReferences": [
+    "ceiridge.spinning_rat"
+  ],
+  "Metadata": {
+    "CsProjName": "",
+    "PrimaryAsset": "",
+    "PhysicsMins": "-1,-1,-1",
+    "PhysicsMaxs": "1,1,1",
+    "RenderMins": "-1,-1,-1",
+    "RenderMaxs": "-1,-1,-1"
+  }
+}
